@@ -1,9 +1,9 @@
-👋 Hi, I'm Rohaan Ahmad Quadri
+👋 __Hi, I'm Rohaan Ahmad Quadri__
 
 💻 Passionate about Backend Development and Problem Solving.
 <br>
 
-🚀 About Me
+__🚀 About Me__
 <br>
 💻 Solving Data Structures & Algorithms using Java
 <br>
