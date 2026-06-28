@@ -1,4 +1,4 @@
-👋 # __Hi, I'm Rohaan Ahmad Quadri__
+# 👋 __Hi, I'm Rohaan Ahmad Quadri__
 
 💻 Passionate about Backend Development and Problem Solving.
 <br>
