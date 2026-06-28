@@ -1,12 +1,18 @@
 👋 Hi, I'm Rohaan Ahmad Quadri
 
 💻 Passionate about Backend Development and Problem Solving.
+<br>
 
 🚀 About Me
+<br>
 💻 Solving Data Structures & Algorithms using Java
+<br>
 🎯 Goal: Become a Backend Developer
+<br>
 📚 Practicing consistently on LeetCode
+<br>
 ⚡ Always eager to learn new technologies
+<br>
 
 
 
