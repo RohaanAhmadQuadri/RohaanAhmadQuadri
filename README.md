@@ -4,7 +4,7 @@
 
 ### 💻 Backend Developer • Java Programmer • Full Stack Learner • DSA Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Programmer;FastAPI+%7C+React+Developer;DSA+Enthusiast;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Programmer;FastAPI+%7C+React+Developer;DSA+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" />
 
 <br>
 
