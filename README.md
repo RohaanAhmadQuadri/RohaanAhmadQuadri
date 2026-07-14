@@ -16,7 +16,7 @@
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 Third Semester **B.Tech Computer Science Engineering Student**
 
 💻 Passionate about **Backend Development** and **Full Stack Web Development**
 
@@ -32,16 +32,18 @@
 
 ⚡ I enjoy transforming ideas into practical software solutions.
 
+💡 Interested in **Backend Architecture, REST APIs, Authentication Systems, and Scalable Web Applications**
+
 ---
 
 # 🌱 Currently Learning
 
+- Advanced Java
 - FastAPI
 - PostgreSQL
 - System Design
-- Backend Development
 - Software Engineering
-- Advanced Java
+- Backend Best Practices
 
 ---
 
@@ -49,7 +51,9 @@
 
 ## 🎓 Campus Connect ERP
 
-A modern **College ERP System** built using:
+A modern **College ERP System** focused on simplifying student and faculty management using modern web technologies.
+
+### Tech Used
 
 - React
 - FastAPI
@@ -111,26 +115,37 @@ A project focused on solving real-world development problems and improving softw
 ## 👨‍💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ---
 
-## 🌐 Frontend
+## 🌐 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
@@ -138,23 +153,35 @@ A project focused on solving real-world development problems and improving softw
 ## 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ---
 
-## 📊 Data Science
+## 📊 Data Science & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
@@ -163,13 +190,31 @@ A project focused on solving real-world development problems and improving softw
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RohaanAhmadQuadri&show_icons=true&theme=merko&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RohaanAhmadQuadri&show_icons=true&theme=merko&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohaanAhmadQuadri&layout=compact&theme=merko&hide_border=true"/>
+<br><br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RohaanAhmadQuadri&layout=compact&theme=merko&hide_border=true" />
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RohaanAhmadQuadri&theme=merko&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohaanAhmadQuadri&theme=merko" />
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -181,7 +226,11 @@ A project focused on solving real-world development problems and improving softw
 
 # 📈 Contribution Graph
 
-[![Rohaan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RohaanAhmadQuadri&theme=github-compact)](https://github.com/RohaanAhmadQuadri)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohaanAhmadQuadri&theme=github-compact&hide_border=true"/>
+
+</div>
 
 ---
 
