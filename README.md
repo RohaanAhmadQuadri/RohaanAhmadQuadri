@@ -1,5 +1,5 @@
-
-
+<div align="center">
+  
 # Hi 👋, I'm **Rohaan Ahmad Quadri**
 
 ### 💻 Backend Developer • Java Programmer • Full Stack Learner • DSA Enthusiast
